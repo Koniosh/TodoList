@@ -6,34 +6,34 @@ A simple and intuitive Todo List application built with **React**. Manage your t
 
 1. ### Fork the Repository:
 
-  - Click the Fork button on the top-right corner of this repository.
+- Click the Fork button on the top-right corner of this repository.
 
-2. ###  Clone the Repository:
+2.  ### Clone the Repository:
 
-      `git clone https://github.com/your-username/todolist.git`
+    `git clone https://github.com/your-username/todolist.git`
 
-3. ### Navigate to the Project Directory:
+3.  ### Navigate to the Project Directory:
 
-       cd todolist
+    cd todolist
 
-
-4. ### Create a new branch
+4.  ### Create a new branch
 
         git branch issue/issuename
 
-5. ### Switch to new branch
+5.  ### Switch to new branch
+
         git checkout branchname
 
-6. ### Install Dependencies:
+6.  ### Install Dependencies:
 
-       npm install
+    npm install
 
-7. ### Run the Application:
+7.  ### Run the Application:
 
-       npm start
+    npm start
 
-8. ### Start Contributing:
+8.  ### Start Contributing:
 
- - Check out the [CONTRIBUTING.md](https://github.com/programming-club-knit/TodoList/blob/main/CONTRIBUTING.md)
+- Check out the [CONTRIBUTING.md](https://github.com/programming-club-knit/TodoList/blob/main/CONTRIBUTING.md)
 
- - Pick an issue from the Issues tab and start working on it.
+- Pick an issue from the Issues tab and start working on it.
